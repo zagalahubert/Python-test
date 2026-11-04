@@ -1,0 +1,290 @@
+[
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 20.0,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 40,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1010.0,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 23.0,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 50.0,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:00:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1012.0,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 20.4,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 41,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1010.2,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 23.2,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 49.5,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:01:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1011.9,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 20.8,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 42,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1010.4,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 23.4,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 49.0,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:02:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1011.8,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 21.2,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 43,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1010.6,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 23.6,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 48.5,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:03:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1011.7,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 21.6,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 44,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1010.8,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 23.8,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 48.0,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:04:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1011.6,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature",
+    "value": 22.0,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "humidity",
+    "value": 45,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "pressure",
+    "value": 1011.0,
+    "unit": "hPa"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "temperature",
+    "value": 24.0,
+    "unit": "C"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "humidity",
+    "value": 47.5,
+    "unit": "%"
+  },
+  {
+    "time": "2026-10-01T12:05:00+00:00",
+    "room": "office",
+    "sensor_id": "station-02",
+    "metric": "pressure",
+    "value": 1011.5,
+    "unit": "hPa"
+  }
+]

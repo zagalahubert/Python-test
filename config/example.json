@@ -1,0 +1,24 @@
+{
+  "input": {
+    "path": "../data/readings.csv",
+    "format": "csv"
+  },
+  "selection": {
+    "room": "laboratory",
+    "sensor_id": "station-01",
+    "metric": "temperature"
+  },
+  "calibration": {
+    "enabled": true,
+    "scale": 1.02,
+    "offset": -0.4
+  },
+  "output": {
+    "readings_path": "../output/calibrated.csv",
+    "summary_path": "../output/summary.json"
+  },
+  "logging": {
+    "level": "INFO",
+    "path": "../output/run.log"
+  }
+}
